@@ -2,11 +2,11 @@
 A list of all useful programs required in the study of Computer Network.
 
 ## Programs
-| Program                        | Link                          | Algorithm/Flowchart for better understanding                |
+| Program                        | Link                          | Theory                |
 | ------------------------------ | -----------------------------| ---------------------------------------------------- |
-| CRC.py                         | [CRC](https://github.com/Adrija-G/Computer-Network-Algorithms-in-Python/blob/main/CRC.py)    | [Cyclic Redundancy Check (CRC)](https://en.wikipedia.org/wiki/Computation_of_cyclic_redundancy_checks) |
+ CRC.py                         | [CRC](https://github.com/Adrija-G/Computer-Network-Algorithms-in-Python/blob/main/CRC.py)    | [Cyclic Redundancy Check (CRC)](https://en.wikipedia.org/wiki/Computation_of_cyclic_redundancy_checks) |
 
-| Go-Back-N.py                   | [Go-Back-N.py](https://github.com/Adrija-G/Computer-Network-Algorithms-in-Python/blob/main/Go-Back-N.py) | [Go-Back-N](https://en.wikipedia.org/wiki/Go-Back-N_ARQ)  |
+ Go-Back-N.py                   | [Go-Back-N.py](https://github.com/Adrija-G/Computer-Network-Algorithms-in-Python/blob/main/Go-Back-N.py) | [Go-Back-N](https://en.wikipedia.org/wiki/Go-Back-N_ARQ)  |
 
 | HammingCode.py                 | [HammingCode.py](https://github.com/Adrija-G/Computer-Network-Algorithms-in-Python/blob/main/HammingCode.py) | [Hamming Code](https://en.wikipedia.org/wiki/Hamming_code#General_algorithm)|
 
