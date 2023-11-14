@@ -13,4 +13,8 @@ A list of all useful programs required in the study of Computer Network.
 | SelectiveRepeat.py             | [SelectiveRepeat.py](https://github.com/Adrija-G/Computer-Network-Algorithms-in-Python/blob/main/SelectiveRepeat.py)       | [Selective Repeat](https://en.wikipedia.org/wiki/Selective_Repeat_ARQ#Concept)                                                |
 | Stop-and-Wait-Protocol.py      | [Stop-and-Wait-Protocol.py](https://github.com/Adrija-G/Computer-Network-Algorithms-in-Python/blob/main/Stop-and-Wait-Protocol.py) | [Stop-and-Wait protocol](https://en.wikipedia.org/wiki/Stop-and-wait_ARQ)                                                   |
 
+## Contributing
 
+If you'd like to contribute or report issues, please follow the [contribution guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors).
+
+________________________________________________________________________________________________________________________
