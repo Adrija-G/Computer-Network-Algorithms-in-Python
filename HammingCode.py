@@ -1,3 +1,5 @@
+
+
 def hamming_encode(data):
     r = 1
     while 2**r < len(data) + r + 1:
